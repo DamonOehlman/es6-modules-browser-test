@@ -1,0 +1,16 @@
+{
+  "name": "es6-native-support-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^2.5.0",
+    "autobrowse": "1.1",
+    "draftlog": "^1.0.12",
+    "express": "^4.15.3",
+    "out": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
